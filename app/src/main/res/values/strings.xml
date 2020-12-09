@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Navigation Bar</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="blog">Blogs</string>
+    <string name="study">Study</string>
+    <string name="dev_name">Gaurav Sharma</string>
+    <string name="dev_info">Android UI/UX Developer</string>
+    <string name="dev_email">sharma.gs12501@gmail.com</string>
+    <string name="dev_facebook_url">http://www.facebook.com</string>
+    <string name="dev_instagram_url">http://www.instagram.com</string>
+    <string name="dev_github_url">http://www.github.com/Gaurav123</string>
+    <string name="title_activity_home">home</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_deleteme">deleteme</string>
+
+    <string name="looseweight">
+        •	Freshly prepared meals are the best choice always.\n
+        •	Ensure to have all the food groups in your diet plan.\n
+        •	Breakfasts are to be hearty and wholesome. Options like paratha, idlis, dosa, uttapam, bread and eggs are good choices.\n
+        •	Breakfast should be taken within thirty minutes of waking up.\n
+        •	Lunch should be a medium affair with dal, sabzi, roti and curd or rice, rajma, chole etc.\n
+        •	Dinner should be light such as khichdi or dal chawal or curd rice.\n
+        •	Dinner should be taken at least two hours before bedtime.\n
+        •	Apart from the main meals, there should be 2-3 mini meals as well.\n
+        •	These mini meals can consist of fruits, nuts, salads, peanuts etc.\n
+        •	Packages, processes, ready to eat foods should be avoided.\n
+        •	Water is a very important element of a balanced diet.\n
+        •	One meal a week can be a cheat meal, however, ensure not to go overboard during this time.\n
+        •	Avoid things like a zero carb diet or starvation to lose weight.\n
+</string>
+
+    <string name="gainweight">
+        •	Eat more calories than your body can burn: There is no rocket science behind this tip but simple mathematical logic. If a system has a greater influx as compared to an outflux, there are most likely chances that the system may resort to the accumulation of material.\n
+        •	Include a protein-rich diet: Protein helps build lean muscle mass. Thus, a greater amount of protein-rich foods like soybean, fish, eggs, dairy products, nuts or whey protein helps gain weight.\n
+        •	Increased carbs and high-fat foods: It is very important to consume high carbohydrate and high-fat foods like bananas, oats, quinoa, blueberries, sweet potatoes, cheese, dark chocolate, etc. Also, make sure to have at least three wholesome meals a day.\n
+        •	Weight lifting and exercise: The excess calories consumed will bulk up onto the muscle rather than the abdomen or other parts if an individual performs regular weightlifting.\n
+        •	Consumption of energy-rich foods: Make sure to eat, energy-dense foods like nuts including almonds, walnuts, peanuts, dried fruits including raisins or prunes, dark chocolate, high-fat dairy foods like condensed milk, full-fat cream, cheese, milk, veggies like potatoes and yams, etc.\n
+        •	Drink Milk: Prefer full-fat milk and have at least one full glass in a day.\n
+        •	Protein and weight gain supplements: Such supplements are available in the form of powders which can be prepared as shakes with milk and consumed. Avoid getting into a habit of only relying on these products and conveniently skipping healthy diets. Use such supplements from credible brands, in limited amounts and for a limited time.\n
+        •	Sleep and Yoga: It is not a contemporary saying but rather a quite old one, that the secret of good health lies not just in healthy, tasty food but also in plenty of sleep. Sleep plays a crucial role not just in your mental well being throughout the day, but also has been scientifically proven to be a contributing factor in aiding digestion\n
+            and the overall metabolic process and indirectly contribute to weight gain.\n
+        •	Avoid smoking: Smoking is detrimental to your health as it first tampers with your respiratory health and later traverses its way to an overall loss of weight and efficient body functions.\n
+        •	Eat Pattern: Whenever, there is a choice in a mixed platter, prefer eating your carb-rich or calorie-rich diet and protein-rich diet first and the veggies later. This commissions the digestive system to digest carbs and protein ahead of fats, vitamins or minerals. Such a trend in digestion aids in the early burning of the digested calories and gradually you end up eating again.\n
+
+    </string>
+</resources>
