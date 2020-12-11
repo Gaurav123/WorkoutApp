@@ -19,7 +19,7 @@ public class paymentfrag extends Fragment {
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        v= inflater.inflate(R.layout.payment_frag,container,false);
+        v= inflater.inflate(R.layout.trainer,container,false);
         return v;
     }
 }

@@ -23,8 +23,11 @@
         <activity android:name=".VideoAdapter" />
         <activity android:name=".homedataAdapter" />
         <activity android:name=".excersisefrag" />
-        <activity android:name=".secexcersise"
-            android:parentActivityName=""/>
+        <activity android:name=".secexcersise"/>
+        <activity android:name=".trainer"/>
+        <activity android:name=".Main3Activity_Registration"
+            />
+
 
         <activity android:name=".MainActivity">
 

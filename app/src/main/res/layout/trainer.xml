@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".trainer"
+    android:background="@drawable/background">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="20dp"
+            android:orientation="vertical" >
+
+
+            <Button
+                android:id="@+id/chest"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:background="@color/cardview_light_background"
+                android:text="Gautam
+Full body
+Age:29"
+                android:layout_marginTop="20dp"
+                android:textStyle="normal"
+                android:textAllCaps="false"
+
+                android:textSize="10dp"
+                android:drawableRight="@drawable/tr1"
+
+                />
+            <Button
+                android:id="@+id/backbody"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:background="@color/cardview_light_background"
+                android:text="Pragksh
+Full body
+Age:24"
+                android:layout_marginTop="20dp"
+                android:textStyle="normal"
+                android:textAllCaps="false"
+
+                android:textSize="10dp"
+
+                android:drawableRight="@drawable/tr2"
+
+
+                />
+            <Button
+                android:id="@+id/abs"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:background="@color/cardview_light_background"
+                android:text="Radhe
+Full body
+Age:34"
+                android:layout_marginTop="20dp"
+                android:textStyle="normal"
+
+                android:textAllCaps="false"
+                android:textSize="10dp"
+                android:drawableRight="@drawable/tr3"
+
+                />
+            <Button
+                android:id="@+id/lowerpart"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:background="@color/cardview_light_background"
+                android:text="manish
+Full body
+Age:38"
+                android:layout_marginTop="20dp"
+                android:textStyle="normal"
+                android:textAllCaps="false"
+
+                android:textSize="10dp"
+                android:drawableRight="@drawable/tr4"
+
+                />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</RelativeLayout>

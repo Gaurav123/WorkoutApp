@@ -77,7 +77,7 @@ public class register extends AppCompatActivity {
                             Boolean insert = DB.insertData(namestr,emailstr, pass,mobilestr);
                             if(insert==true){
                                 Toast.makeText(register.this, "Registered successfully", Toast.LENGTH_SHORT).show();
-                                Intent intent = new Intent(getApplicationContext(),MainActivity.class);
+                                Intent intent = new Intent(getApplicationContext(),Main3Activity_Registration.class);
                                 startActivity(intent);
                             }else{
                                 Toast.makeText(register.this, "Registration failed", Toast.LENGTH_SHORT).show();
